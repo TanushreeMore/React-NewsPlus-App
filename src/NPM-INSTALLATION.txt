@@ -1,0 +1,9 @@
+npm i react-infinite-scroll-component 
+
+npm i react-router-dom 
+
+npm install @mui/icons-material
+
+npm install @mui/material @mui/styled-engine-sc styled-components
+
+npm i react-top-loading-bar

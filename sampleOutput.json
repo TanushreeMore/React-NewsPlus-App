@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Snow in California mountains piles to rooftops, leaving residents trapped for days",
+            "description": "Emergency crews are scrambling to shuttle food and medicine to residents of California mountain communities stranded by back-to-back winter storms.",
+            "url": "https://www.cbsnews.com/news/california-snow-winter-storm-residents-trapped/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/02/0fa7b302-5dd2-406e-9ea2-0571d6172afb/thumbnail/1200x630/28956597f4572f8a0052a4d39617305a/gettyimages-1247599661.jpg",
+            "publishedAt": "2023-03-02T05:01:00+00:00",
+            "content": "Emergency crews in California scrambled Wednesday to shuttle food and medicine to mountain communities stranded by back-to-back winter storms that have dumped so much snow some residents can barely s… [+7515 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Nestlé steigt bei „Die Höhle der Löwen“-Startup Yfood ein",
+            "description": "Mit Trinkmahlzeiten setzt Yfood dreistellige Millionensummen um. Nun soll Nestlé das internationale Geschäft des Startups ankurbeln.",
+            "url": "https://www.businessinsider.de/gruenderszene/food/nestle-startup-yfood-investment/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2023/02/Benjamin-Kremer_Noel-Bollmann-c-yfood-scaled.jpg?ver=1677589577",
+            "publishedAt": "2023-03-02T03:00:00+00:00",
+            "content": "Mit Trinkmahlzeiten setzt Yfood dreistellige Millionensummen um. Nun soll Nestlé das internationale Geschäft des Startups ankurbeln. Doch hilft das auch der Marke?Nestlé steigt beim Münchner Flüssign… [+3114 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Shitstorm gegen Yfood nach Nestlé-Deal: „Da bleib ich lieber hungrig“",
+            "description": "Das Münchener Start-up Yfood verkauft einen Minderheitsanteil an den Branchenriesen Nestlé. Jetzt distanzieren sich Kunden und Werbepartner.",
+            "url": "https://www.businessinsider.de/gruenderszene/food/nestle-kauft-yfood-anteile-shitstorm/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2023/03/yfood-nestle-reaktionen.jpg?ver=1677686694",
+            "publishedAt": "2023-03-02T03:00:00+00:00",
+            "content": "Das Münchener Startup Yfood verkauft einen Minderheitsanteil an den umstrittenen Branchenriesen Nestlé. Im Netz distanzieren sich nun Kunden und Werbepartner.Wer die Geschichte des Gewürzherstellers … [+7359 chars]"
+        },
+        {
+            "source": {
+                "id": "buzzfeed",
+                "name": "Buzzfeed"
+            },
+            "author": "avocadolol",
+            "title": "Food Quiz: Eat Meals Reveal Disney Princess",
+            "description": "If you love sweet treats, you're probably Tiana!",
+            "url": "https://www.buzzfeed.com/avocadolol/disney-princess-meal-choices-quiz",
+            "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-02/27/19/enhanced/67d804a95bd6/original-844-1677526626-2.jpg?crop=1250:655;0,4%26downsize=1250:*",
+            "publishedAt": "2023-03-02T02:22:21.8664348Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "HYUNG-JIN KIM and KIM TONG-HYUNG Associated Press",
+            "title": "N. Korea wants more control over farming amid food shortage",
+            "description": "North Korean leader Kim Jong Un has vowed to strengthen state control over agriculture and make all available efforts to increase grain production, as the country faces a worsening food shortage",
+            "url": "https://abcnews.go.com/Politics/wireStory/korea-control-farming-amid-food-shortage-97569378",
+            "urlToImage": "https://s.abcnews.com/images/International/wirestory_350762f3d28144f8617e2c96af709eb8_12x5_992.jpg",
+            "publishedAt": "2023-03-02T01:14:50Z",
+            "content": "North Korean leader Kim Jong Un vowed to strengthen state control over agriculture and make all available efforts to increase grain production, state media reported, as the country faces a worsening … [+3483 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Thomas Macaulay",
+            "title": "Insect farming startup targets pet food as gateway to human consumption",
+            "description": "Evolving views on food are challenging traditional diets — and not just for humans. Innovative dining options are also being added to the menus of our pets.\r\n\r\nStartups have proposed ...",
+            "url": "http://thenextweb.com/news/insect-farming-startup-flyfeed-makes-pet-food-gateway-human-consumption",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F02%2FUntitled-design-14.jpg&signature=286c0952791485bab884d2ebffdd3cf7",
+            "publishedAt": "2023-03-01T12:21:00Z",
+            "content": "Evolving views on food are challenging traditional diets and not just for humans. Innovative dining options are also being added to the menus of our pets.\r\nStartups have proposed numerous new ways to… [+4170 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Ukraine war important point of discussion at G20 meet, says India",
+            "description": "Indian officials hope the meeting, also being held amid US-China tensions, will not overlook food and climate security.",
+            "url": "http://www.aljazeera.com/news/2023/3/1/ukraine-war-important-point-of-discussion-at-g20-meet-says-india",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-03-01T035111Z_2145640719_RC2RKZ93VAJ9_RTRMADP_3_G20-INDIA-LAVROV.jpg?resize=1371%2C1080",
+            "publishedAt": "2023-03-01T08:27:51Z",
+            "content": "The Russia-Ukraine conflict will form an important part of discussions at a Group of 20 (G20) foreign ministers meeting, but host India is confident that economic challenges created by the war will g… [+5180 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "Von FOCUS-online-Redakteurin Julia Kerner, FOCUS-online-Redakteur Simon Kirsch",
+            "title": "„Die Food-Industrie ist eine einzige Verbrauchertäuschung“",
+            "description": "Die Klimakrise hat viele Ursachen und kein Land auf dieser Welt wird sie im Alleingang lösen können. Wir haben mit dem Schauspieler Hannes Jaenicke, der sich seit Jahrzehnten für den Klimaschutz einsetzt, gesprochen, worin er die größten Hebel sieht, um die K…",
+            "url": "https://www.focus.de/klima/experten/umweltschuetzer-hannes-jaenicke-die-food-industrie-ist-eine-einzige-verbrauchertaeuschung_id_185707028.html",
+            "urlToImage": "https://p6.focus.de/img/fotos/id_185697866/thumbnails-jaenicke-2.jpg?im=Crop%3D%28144%2C0%2C831%2C415%29%3BResize%3D%281200%2C627%29&hash=519decbae0a31f57fd522d4fa30473ecba613f92659903f91047e9a6bc433882",
+            "publishedAt": "2023-02-24T16:59:50Z",
+            "content": "Die Klimakrise hat viele Ursachen und kein Land auf dieser Welt wird sie im Alleingang lösen können. Wir haben mit dem Schauspieler Hannes Jaenicke, der sich seit Jahrzehnten für den Klimaschutz eins… [+386 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Dipak K Dash",
+            "title": "Government to provide 5 kg free food grains to poor for May & June",
+            "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+            "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:23:00Z",
+            "content": null
+        }
+    ]
+}
